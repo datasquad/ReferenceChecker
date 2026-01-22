@@ -9,3 +9,8 @@ This will check all submissions in a folder and return a spreadsheet with one ro
 **ref_checker_particular_paper.ipnyb**
 
 This will check all references in one paper and return a json file with verification info for all references in a paper. 
+
+Get in touch if you are interested in developing this into something more workable and mature
+
+Ralf
+https://datasquad.github.io/ralffbecker/index.html
