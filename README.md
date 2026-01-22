@@ -14,3 +14,6 @@ Get in touch if you are interested in developing this into something more workab
 
 Ralf
 https://datasquad.github.io/ralffbecker/index.html
+
+Looks like a much more accomplished effort has been done here: https://github.com/JackKuo666/Crossref-MCP-Server
+
